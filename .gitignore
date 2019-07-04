@@ -60,3 +60,6 @@ secret.env
 
 # next.js build output
 .next
+
+# dev helper scripts
+rebuild_containers.sh
